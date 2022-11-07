@@ -7,6 +7,6 @@ sudo apt install python3 -y
 sudo apt install python3-pip -y
 
 pip install tkinter
-Pip install pytube
+pip install pytube
 
 python3 download.py
